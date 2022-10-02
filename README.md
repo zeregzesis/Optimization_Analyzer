@@ -18,20 +18,20 @@ Features/tasks listed here can change and break into sub-tasks later on.
 Project scope can also change.
 
 - [x] Git setup and initial project structure(can be changed later)
-- [] Simple algorithm implenentation in all supported languages(exact algorithm - TBD)
-    - [] C++
-    - [] Java
-    - [] Python
-- [] Compilation module
-- [] Runtime statistics collecting
-- [] Runtime statistics reporting(with custom formating?)
-- [] Saving/loading statistics for comparisons
-- [] Comparing two programs based on statistics
-- [] Low-level code extraction
-    - [] C++
-    - [] Java
-    - [] Python
-- [] UI
-    - [] Dual text editor view
-    - [] Program | Low-level view
-    - [] Runtime performance view (?)
+- [ ] Simple algorithm implenentation in all supported languages(exact algorithm - TBD)
+    - [ ] C++
+    - [ ] Java
+    - [ ] Python
+- [ ] Compilation module
+- [ ] Runtime statistics collecting
+- [ ] Runtime statistics reporting(with custom formating?)
+- [ ] Saving/loading statistics for comparisons
+- [ ] Comparing two programs based on statistics
+- [ ] Low-level code extraction
+    - [ ] C++
+    - [ ] Java
+    - [ ] Python
+- [ ] UI
+    - [ ] Dual text editor view
+    - [ ] Program | Low-level view
+    - [ ] Runtime performance view (?)
