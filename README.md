@@ -4,7 +4,7 @@
 This project is created for the purposes of my engineering thesis.
 It's both the integral part of said thesis as well as a tool used in order to conduct experiments relevant to the thesis.
 
-## What this is exactly?
+## What is this exactly?
 
 It's a simple tool that's meant to show and analyze low-level code produced by compilers of different programing languages.
 It can be used to directly compare not only the resulting code, but also statistics like execution time, memory usage etc.
